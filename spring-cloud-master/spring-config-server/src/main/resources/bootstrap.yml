@@ -5,4 +5,4 @@ spring:
     config:
       server:
         git:
-          uri: F:\sts-workspace\spring-cloud-master\config-git-repo
+          uri: F:\sts-workspace\my-projects\spring-cloud-master\config-git-repo
